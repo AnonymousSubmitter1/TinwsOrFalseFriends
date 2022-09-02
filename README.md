@@ -19,7 +19,7 @@ The results of the literature study can be accessed via [Google Docs](https://do
 ## Scripts
 
 All scripts for re-running our empirical evaluation are included in the [scripts](./scripts) directory.
-* The [analysis](./scripts/analysis) directory contains a PyCharm project which generates, based on the measurement data in the [data](./data) directory, all scatter plots and window plits for RQ1 and RQ2.
+* The [analysis](./scripts/analysis) directory contains a PyCharm project which generates, based on the measurement data in the [data](./data) directory, all scatter plots and window plots for RQ1 and RQ2.
 * The [notebooks](./scripts/notebooks) directory contains jupyter notebooks that generates all tables, correlation plots, and regression plots for all RQs. The [requirements](./scripts/notebooks/requirements.txt) can be used to initialize a virtual environment for python (```python3 -m pip install -r requirements.txt```) with the same software that was used in the evaluation.
 
 ## RQ1.1 & RQ1.2:
