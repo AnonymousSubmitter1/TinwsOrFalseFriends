@@ -2,6 +2,10 @@
 
 This repository is the companion Web page for the ICSE 2023 submission "Twins or False Friends? A Study on Energy Consumption and Performance of Configurable Software".
 
+## Fast Energy Measurement Setup
+
+The setup for the fast energy metering setup can be found in folder [fast-energy-measurements](./fast-energy-measurements/).
+
 ## Data
 
 The data to all subject systems are included in the directory [data](./data). In each of the case study directories, you will find the following files:
